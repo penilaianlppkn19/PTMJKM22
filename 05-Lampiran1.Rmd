@@ -1,6 +1,6 @@
 # Jadual Pemantauan Program
 
-Jadual pemantauan Program boleh diakses melalui pautan seperti berikut:
+Jadual pemantauan program boleh diakses melalui pautan seperti berikut:
 <https://docs.google.com/spreadsheets/d/1dCoZulFKaaHhXraQdb1mWTPaHx7t-c_g/edit?usp=sharing&ouid=111548348067812879734&rtpof=true&sd=true>
 
 
